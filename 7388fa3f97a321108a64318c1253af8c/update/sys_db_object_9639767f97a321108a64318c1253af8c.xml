@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -14,7 +14,7 @@
         <label>records</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_808777_students_records</name>
-        <number_ref/>
+        <number_ref display_value="REC">5a03df84973321108a64318c1253afb0</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
@@ -25,14 +25,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-06-27 16:51:36</sys_created_on>
         <sys_id>9639767f97a321108a64318c1253af8c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Students Records</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>records</sys_name>
         <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
         <sys_update_name>sys_db_object_9639767f97a321108a64318c1253af8c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-06-27 16:51:36</sys_updated_on>
+        <sys_updated_on>2023-06-28 13:22:51</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1ae0770497b321108a64318c1253afc9" sys_domain="global" table="x_808777_students_records" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>92e0770497b321108a64318c1253affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_808777_students_records" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc9</sys_ui_form>
+            <sys_ui_section caption="Student Information" display_value="Student Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">548faf8097b321108a64318c1253af6e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:33:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ee0770497b321108a64318c1253affe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_808777_students_records" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc9</sys_ui_form>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:33:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_808777_students_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ae0770497b321108a64318c1253afc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_808777_students_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1ae0770497b321108a64318c1253afc9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:33:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Student Admin" name="student_admin">188f2f4097b321108a64318c1253af7c</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

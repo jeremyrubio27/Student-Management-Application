@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Address Information" section_id="1ae0770497b321108a64318c1253afc8" sys_domain="global" table="x_808777_students_records" version="3" view="student_admin">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:42:03</sys_created_on>
+            <sys_id>11e23b8497b321108a64318c1253afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:42:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>country</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:42:03</sys_created_on>
+            <sys_id>91e23b8497b321108a64318c1253afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:42:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:42:03</sys_created_on>
+            <sys_id>15e23b8497b321108a64318c1253afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:42:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state_province</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:42:03</sys_created_on>
+            <sys_id>95e23b8497b321108a64318c1253afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:42:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>postal_code</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:42:03</sys_created_on>
+            <sys_id>19e23b8497b321108a64318c1253afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Address Information" display_value="Address Information" name="x_808777_students_records" sys_domain="global" view="188f2f4097b321108a64318c1253af7c">1ae0770497b321108a64318c1253afc8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:42:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Address Information</caption>
+            <header>false</header>
+            <name>x_808777_students_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-06-28 15:33:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ae0770497b321108a64318c1253afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_808777_students_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+            <sys_update_name>sys_ui_section_1ae0770497b321108a64318c1253afc8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-06-28 15:33:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Student Admin" name="student_admin">188f2f4097b321108a64318c1253af7c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
