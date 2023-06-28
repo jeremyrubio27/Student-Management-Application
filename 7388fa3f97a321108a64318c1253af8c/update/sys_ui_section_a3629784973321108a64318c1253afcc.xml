@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>c3931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>1d3bb34c97b321108a64318c1253af85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,41 +18,41 @@
             <element>student_s_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>47931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>9d3bb34c97b321108a64318c1253af85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>date_of_birth</element>
+            <element>first_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>c7931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>113bb34c97b321108a64318c1253af86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contact_information</element>
+            <element>last_name</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>4b931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>913bb34c97b321108a64318c1253af86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>cb931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>153bb34c97b321108a64318c1253af86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,111 +74,13 @@
             <element>enrollment_status</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 13:25:22</sys_created_on>
-            <sys_id>4f931fc4973321108a64318c1253af06</sys_id>
+            <sys_created_on>2023-06-28 16:18:22</sys_created_on>
+            <sys_id>953bb34c97b321108a64318c1253af86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 13:25:22</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>city</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:31:58</sys_created_on>
-            <sys_id>7590bfc097b321108a64318c1253af03</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:31:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>country</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:31:58</sys_created_on>
-            <sys_id>bd90330497b321108a64318c1253af2f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:31:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>postal_code</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:40:05</sys_created_on>
-            <sys_id>a4727f4497b321108a64318c1253af87</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:40:05</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state_province</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:40:05</sys_created_on>
-            <sys_id>2872bf4497b321108a64318c1253afae</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:40:05</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>gender</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:43:50</sys_created_on>
-            <sys_id>ef43ff8497b321108a64318c1253af8b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:43:50</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>first_name</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:58:12</sys_created_on>
-            <sys_id>f5967bc497b321108a64318c1253afec</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:58:12</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>last_name</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-06-28 15:58:12</sys_created_on>
-            <sys_id>4296738897b321108a64318c1253af50</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_records" sys_domain="global" view="Default view">a3629784973321108a64318c1253afcc</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-06-28 15:58:12</sys_updated_on>
+            <sys_updated_on>2023-06-28 16:18:22</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

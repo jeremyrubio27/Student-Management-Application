@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.phone_number_e164.display_territory_selector</name>
+        <read_roles/>
+        <suffix>glide.phone_number_e164.display_territory_selector</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-28 16:53:46</sys_created_on>
+        <sys_id>13330c9497f321108a64318c1253aff7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.phone_number_e164.display_territory_selector</sys_name>
+        <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+        <sys_update_name>sys_properties_13330c9497f321108a64318c1253aff7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-28 16:54:38</sys_updated_on>
+        <type>boolean</type>
+        <value>false</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=13330c9497f321108a64318c1253aff7"/>
+</record_update>
