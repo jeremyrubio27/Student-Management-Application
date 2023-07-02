@@ -4,13 +4,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>d39a20e997b321108a64318c1253af1a</sys_id>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>47c9f06997f321108a64318c1253af77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>applicant_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>db9a20e997b321108a64318c1253af1a</sys_id>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>0fc9f06997f321108a64318c1253af77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,97 +32,97 @@
             <element>enrollment_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>5f9a20e997b321108a64318c1253af1a</sys_id>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>87c934a997f321108a64318c1253af2e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approval_details</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>df9a20e997b321108a64318c1253af1a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>admission_status</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>539a20e997b321108a64318c1253af1b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>d39a20e997b321108a64318c1253af1b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>admission_id</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>579a20e997b321108a64318c1253af1b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>admission_decision</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>d79a20e997b321108a64318c1253af1b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>applied_program_course</element>
-            <position>8</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>5b9a20e997b321108a64318c1253af1b</sys_id>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>0bc934a997f321108a64318c1253af2e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>8bc934a997f321108a64318c1253af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>0fc934a997f321108a64318c1253af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_details</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>8fc934a997f321108a64318c1253af2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_status</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>03c934a997f321108a64318c1253af2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission_decision</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>83c934a997f321108a64318c1253af2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>.end_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-02 16:57:54</sys_created_on>
-            <sys_id>db9a20e997b321108a64318c1253af1b</sys_id>
+            <sys_created_on>2023-07-02 18:04:15</sys_created_on>
+            <sys_id>07c934a997f321108a64318c1253af2f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_808777_students_admission" sys_domain="global" view="Default view">d39ae86197b321108a64318c1253af75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-02 16:57:54</sys_updated_on>
+            <sys_updated_on>2023-07-02 18:04:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

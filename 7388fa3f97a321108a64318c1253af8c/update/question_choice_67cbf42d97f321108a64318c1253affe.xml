@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="Applied Program/Course">23cbf42d97f321108a64318c1253aff7</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-02 18:13:01</sys_created_on>
+        <sys_id>67cbf42d97f321108a64318c1253affe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Associate Degree in Business Administration</sys_name>
+        <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+        <sys_update_name>question_choice_67cbf42d97f321108a64318c1253affe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-02 18:13:01</sys_updated_on>
+        <text>Associate Degree in Business Administration</text>
+        <value>ADBD</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=67cbf42d97f321108a64318c1253affe"/>
+</record_update>
