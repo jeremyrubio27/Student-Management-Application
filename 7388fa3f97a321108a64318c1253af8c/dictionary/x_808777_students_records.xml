@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Student Records" max_length="40" name="x_808777_students_records" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="City" max_length="32" name="city" reference="cmn_location" type="reference"/>
         <element label="Contact number" max_length="40" name="contact_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Country" max_length="32" name="country" reference="cmn_location" type="reference"/>
         <element label="Date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Enrollment status" max_length="40" name="enrollment_status" type="choice">
             <choice/>
         </element>
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="choice">
+            <choice/>
+        </element>
+        <element label="Last name" max_length="40" name="last_name" type="string"/>
+        <element label="Postal code" max_length="40" name="postal_code" type="string"/>
+        <element label="State | Province" max_length="40" name="state_province" type="string"/>
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Students Name" max_length="32" name="student_s_name" reference="sys_user" type="reference"/>
     </element>
 </database>
