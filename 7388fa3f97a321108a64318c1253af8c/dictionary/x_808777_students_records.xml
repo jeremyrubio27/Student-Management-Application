@@ -5,11 +5,26 @@
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Country" max_length="32" name="country" reference="cmn_location" type="reference"/>
         <element label="Date of birth" max_length="40" name="date_of_birth" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Enrollment status" max_length="40" name="enrollment_status" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="100" value="pending"/>
+                <element inactive_on_update="false" label="Enrolled" sequence="200" value="enrolled"/>
+                <element inactive_on_update="false" label="Waitlisted" sequence="300" value="waitlisted"/>
+                <element inactive_on_update="false" label="Withdrawn" sequence="400" value="withdrawn"/>
+                <element inactive_on_update="false" label="Rejected" sequence="500" value="rejected"/>
+                <element inactive_on_update="false" label="Completed" sequence="600" value="completed"/>
+                <element inactive_on_update="false" label="On Hold" sequence="700" value="onhold"/>
+                <element inactive_on_update="false" label="Transferred" sequence="800" value="transferred"/>
+                <element inactive_on_update="false" label="Discontinued" sequence="900" value="discontinued"/>
+                <element inactive_on_update="false" label="Graduated" sequence="1000" value="graduated"/>
+            </choice>
         </element>
         <element label="First name" max_length="40" name="first_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="100" value="male"/>
+                <element inactive_on_update="false" label="Female" sequence="200" value="Female"/>
+                <element inactive_on_update="false" label="Other" sequence="300" value="other"/>
+            </choice>
         </element>
         <element label="Last name" max_length="40" name="last_name" type="string"/>
         <element label="Postal code" max_length="40" name="postal_code" type="string"/>
