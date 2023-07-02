@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Admission" max_length="40" name="x_808777_students_admission" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Admission Decision" max_length="40" name="admission_decision" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" value="accepted"/>
+                <element inactive_on_update="false" label="Conditional Admission" value="conditional admission"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Admission ID" max_length="40" name="admission_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Admission Status" max_length="40" name="admission_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accepted" value="accepted"/>
+                <element inactive_on_update="false" label="Admitted" value="admitted"/>
+                <element inactive_on_update="false" label="Application Withdrawn" value="application withdrawn"/>
+                <element inactive_on_update="false" label="Incomplete Application" value="incomplete application"/>
+                <element inactive_on_update="false" label="Not Admitted" value="not admitted"/>
+                <element inactive_on_update="false" label="Pending Review" value="pending review"/>
+                <element inactive_on_update="false" label="Rejected" value="rejected"/>
+                <element inactive_on_update="false" label="Waitlisted" value="waitlisted"/>
+            </choice>
+        </element>
+        <element label="Applicant Name" max_length="32" name="applicant_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Applied Program/Course" max_length="40" name="applied_program_course" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Associate Degree in Business Administration" value="ADBD"/>
+                <element inactive_on_update="false" label="Bachelor of Architecture (BArch)" value="BArch"/>
+                <element inactive_on_update="false" label="Bachelor of Arts (BA)" value="BA"/>
+                <element inactive_on_update="false" label="Bachelor of Education (BEd)" value="BEd"/>
+                <element inactive_on_update="false" label="Bachelor of Engineering (BE)" value="BE"/>
+                <element inactive_on_update="false" label="Bachelor of Science (BSc)" value="BSc"/>
+                <element inactive_on_update="false" label="Master of Business Administration (MBA)" value="MBA"/>
+                <element inactive_on_update="false" label="Master of Science in Computer Science (MSCS)" value="MSCS"/>
+            </choice>
+        </element>
+        <element choice="1" label="Approval Details" max_length="40" name="approval_details" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Approved by Board of Trustees" value="approved by board of trustees"/>
+                <element inactive_on_update="false" label="Approved by Dean" value="approved by dean"/>
+                <element inactive_on_update="false" label="Approved by Department Chair" value="approved by department chair"/>
+                <element inactive_on_update="false" label="Approved by Faculty Advisor" value="approved by faculty advisor"/>
+                <element inactive_on_update="false" label="Approved by Financial Aid Office" value="approved by financial aid office"/>
+                <element inactive_on_update="false" label="Approved by Registrar's Office" value="approved by registrar's office"/>
+                <element inactive_on_update="false" label="Approved by Student Services" value="approved by student services"/>
+                <element inactive_on_update="false" label="Approved with Conditions" value="approved with conditions"/>
+                <element inactive_on_update="false" label="Denied" value="denied"/>
+                <element inactive_on_update="false" label="Pending" value="pending"/>
+                <element inactive_on_update="false" label="Requires Additional Documentation" value="requires additional documentation"/>
+                <element inactive_on_update="false" label="Under Review" value="under review"/>
+            </choice>
+        </element>
+        <element label="Enrollment Date" max_length="40" name="enrollment_date" type="glide_date"/>
+    </element>
+</database>

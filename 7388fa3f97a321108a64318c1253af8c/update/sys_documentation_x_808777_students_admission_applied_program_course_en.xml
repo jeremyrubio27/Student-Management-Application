@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="applied_program_course" label="Applied Program/Course" language="en" table="x_808777_students_admission">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>applied_program_course</element>
+            <help/>
+            <hint/>
+            <label>Applied Program/Course</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <plural>Applied Program/Courses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 16:28:26</sys_created_on>
+            <sys_id>6fd3e82597b321108a64318c1253af23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Applied Program/Course</sys_name>
+            <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+            <sys_update_name>sys_documentation_x_808777_students_admission_applied_program_course_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 16:28:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
