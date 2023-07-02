@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="approval_details" label="Approval Details" language="en" table="x_808777_students_admission">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>approval_details</element>
+            <help/>
+            <hint/>
+            <label>Approval Details</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <plural>Approval Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 15:37:58</sys_created_on>
+            <sys_id>d858d869977321108a64318c1253afdb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Approval Details</sys_name>
+            <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+            <sys_update_name>sys_documentation_x_808777_students_admission_approval_details_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 15:37:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

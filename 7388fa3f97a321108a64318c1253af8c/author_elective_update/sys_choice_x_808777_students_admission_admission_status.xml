@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="admission_status" table="x_808777_students_admission" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>admission_status</element>
+            <name>x_808777_students_admission</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:22:44</sys_created_on>
+            <sys_id>cb4078ed97b321108a64318c1253af10</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>admission_status</sys_name>
+            <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+            <sys_update_name>sys_choice_x_808777_students_admission_admission_status</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:22:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Accepted</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:22:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7440f8ed97b321108a64318c1253afe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:22:44</sys_updated_on>
+            <value>accepted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admitted</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:23:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f70fced97b321108a64318c1253af8d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:23:34</sys_updated_on>
+            <value>admitted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Application Withdrawn</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:24:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0290782197f321108a64318c1253af20</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:24:02</sys_updated_on>
+            <value>application withdrawn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incomplete Application</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:23:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9170382197f321108a64318c1253af45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:23:26</sys_updated_on>
+            <value>incomplete application</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Admitted</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:23:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2580782197f321108a64318c1253af1c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:23:44</sys_updated_on>
+            <value>not admitted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending Review</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:23:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3350f0ed97b321108a64318c1253afea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:23:03</sys_updated_on>
+            <value>pending review</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:22:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b050782197f321108a64318c1253af8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:22:52</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>admission_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waitlisted</label>
+            <language>en</language>
+            <name>x_808777_students_admission</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-02 17:23:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86603ced97b321108a64318c1253afe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-02 17:23:13</sys_updated_on>
+            <value>waitlisted</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
