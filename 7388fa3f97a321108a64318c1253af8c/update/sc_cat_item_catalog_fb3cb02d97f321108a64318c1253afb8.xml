@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Admission Form">9bcbb8e997f321108a64318c1253af66</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-02 18:14:57</sys_created_on>
+        <sys_id>fb3cb02d97f321108a64318c1253afb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Admission Form</sys_name>
+        <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_fb3cb02d97f321108a64318c1253afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-02 18:14:57</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

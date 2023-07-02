@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Admission Form">9bcbb8e997f321108a64318c1253af66</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-02 18:16:35</sys_created_on>
+        <sys_id>8cac746d97f321108a64318c1253af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Admission Form</sys_name>
+        <sys_package display_value="Students" source="x_808777_students">7388fa3f97a321108a64318c1253af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Students">7388fa3f97a321108a64318c1253af8c</sys_scope>
+        <sys_update_name>sc_cat_item_category_8cac746d97f321108a64318c1253af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-02 18:16:35</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
